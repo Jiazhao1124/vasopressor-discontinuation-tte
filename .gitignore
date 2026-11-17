@@ -1,0 +1,11 @@
+# Patient-level data must never be committed (PhysioNet Credentialed Health Data Use Agreement)
+data/raw/*
+data/derived/*
+!data/raw/.gitkeep
+!data/derived/.gitkeep
+*.csv
+!results/*.csv
+figures/output/*.tiff
+__pycache__/
+.Rhistory
+.DS_Store
