@@ -1,0 +1,8 @@
+step,n
+ICU stays with a qualifying first vasopressor episode,14680
+Peak NEE >= 0.05 and no comfort care at discontinuation,14050
+No comfort care or hospice in discharge summary,11908
+NEE at discontinuation <= 0.2 (analytic cohort),11518
+  tapered (NEE <= 0.05),9448
+  abrupt (NEE > 0.05),2070
+  unique patients,10197

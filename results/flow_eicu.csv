@@ -1,0 +1,9 @@
+step,n
+First-unit vasopressor episodes >= 6 h,7674
+Dose at discontinuation computable,2467
+Peak NEE >= 0.05,2206
+No care limitation for comfort <= 24 h after discontinuation,2133
+NEE at discontinuation <= 0.2 (analytic cohort),1852
+  tapered (NEE <= 0.05),1360
+  abrupt (NEE > 0.05),492
+  hospitals,36

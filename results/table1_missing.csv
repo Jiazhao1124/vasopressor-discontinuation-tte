@@ -1,0 +1,7 @@
+variable,missing_mimic_pct,missing_eicu_pct
+lac_last,31.9,44.1
+lac_max,17.9,44.1
+ph_last,22.0,26.8
+apache,,33.5
+frac_map65_24,0.0,50.8
+uo24,4.8,

@@ -1,0 +1,18 @@
+database,item,abrupt,tapered
+MIMIC-IV,n,2070,9448.0
+MIMIC-IV,"abrupt stops, %",18.0,
+MIMIC-IV,median NEE at discontinuation,0.075,0.025
+MIMIC-IV,"vasopressin at discontinuation, %",30.4,5.2
+MIMIC-IV,"crude 24-h re-initiation, %",46.9,34.6
+eICU-CRD,n,492,1360.0
+eICU-CRD,"abrupt stops, %",26.6,
+eICU-CRD,median NEE at discontinuation,0.1,0.022
+eICU-CRD,"vasopressin at discontinuation, %",26.2,4.6
+eICU-CRD,"crude 24-h re-initiation, %",54.3,27.7
+MIMIC-IV,median h to re-initiation (<=24 h),3.3,
+MIMIC-IV,IQR h to re-initiation,1.9-6.8,
+MIMIC-IV,"re-initiations within 6 h, % of those <=24 h",72.0,
+MIMIC-IV,"re-initiation by 72 h, %",51.2,38.3
+MIMIC-IV,"death without re-initiation by 72 h, %",5.3,0.8
+eICU-CRD,hospitals evaluable,10,
+eICU-CRD,hospitals with higher re-initiation after abrupt stops,8,
