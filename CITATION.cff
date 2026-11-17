@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article."
+title: "Code for: Abrupt versus tapered discontinuation of vasopressors in critically ill adults: a target trial emulation"
+authors:
+  - family-names: Jing
+    given-names: Saisai
+  - family-names: Wen
+    given-names: Lutong
+  - family-names: Song
+    given-names: Jiazhao
+license: MIT
+repository-code: "https://github.com/Jiazhao1124/vasopressor-discontinuation-tte"
+keywords: [vasopressors, norepinephrine, weaning, shock, target trial emulation, MIMIC-IV, eICU-CRD]
